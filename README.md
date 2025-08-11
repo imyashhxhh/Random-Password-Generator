@@ -1,15 +1,7 @@
 # 🔐 Password Generator
 
-A simple and secure password generator built with **[Your Tech Stack]**.  
+A simple and secure password generator built with **[JavaScript and HTML, CSS]**.  
 It allows you to quickly generate strong, random passwords with customizable length and character sets.
-
----
-
-## 🌐 Live Demo
-[**🔗 Click here to try it out**](https://your-username.github.io/password-generator/)  
-
-
----
 
 ## 📌 Features
 - Generate passwords with:
